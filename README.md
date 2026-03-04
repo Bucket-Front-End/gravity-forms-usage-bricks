@@ -10,6 +10,8 @@ across:
 Built for agencies and content teams who need quick visibility into form
 usage without digging through pages manually.
 
+Unlike many usage tracking plugins, scans run **on demand and cache results**, preventing constant background queries on production sites.
+
 ------------------------------------------------------------------------
 
 ## Why This Exists
