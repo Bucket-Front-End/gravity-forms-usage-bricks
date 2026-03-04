@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Gravity Forms Usage for Bricks
+ * Plugin URI: https://github.com/Bucket-Front-End/gravity-forms-usage-bricks
  * Description: Shows where each Gravity Form is used across Bricks pages, templates, and post content. Includes a modern admin UI with caching and on-demand scans.
  * Version: 1.0.0
  * Author: Adam Pedersen
@@ -9,6 +10,8 @@
  * Text Domain: gf-form-usage-bricks
  * Requires at least: 6.0
  * Requires PHP: 8.0
+ *
+ * Copyright (C) 2026 Adam Pedersen
  */
 
 if (!defined('ABSPATH')) exit;
