@@ -77,7 +77,7 @@ Results are cached for performance and invalidated when content updates.
 
 2.  Upload the plugin folder to:
 
-        wp-content/plugins/gf-form-usage-bricks/
+        wp-content/plugins/gravity-forms-usage-bricks/
 
 3.  Activate via **Plugins → Installed Plugins**
 
